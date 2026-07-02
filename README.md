@@ -1,75 +1,133 @@
-# 🎵 Open-Source Spotify Alternatives
+# 🎵 Spotify Resources & Open-Source Alternatives
 
-A curated list of free, open-source, and ad-free music apps inspired by Spotify. These projects prioritize privacy, customization, and community-driven development.
+A curated collection of official Spotify resources, open-source Spotify clients, music players, companion tools, and ReVanced resources.
 
 > [!NOTE]
-> This repository does **not** host APKs or copyrighted music. It simply links to the official websites and GitHub repositories of each project.
+> This repository **does not host APKs, premium mods, or copyrighted music.**
+>
+> It simply links to official websites, GitHub repositories, F-Droid pages, and trusted open-source projects.
 
 ---
 
-## ⭐ Featured Apps
+# 🎧 Official Spotify
 
-| App | Description | Official | GitHub |
-|------|-------------|----------|---------|
-| Spotube | Cross-platform music client with playlist sync, plugins, lyrics, downloads, and privacy-focused features. | https://spotube.cc | https://github.com/KRTirtho/spotube |
-| Spicetify | Customize and extend the official Spotify desktop client with themes and extensions. | https://spicetify.app | https://github.com/spicetify/cli |
-| ncspot | Fast terminal-based Spotify client for Linux, macOS, and Windows. | https://ncspot.net | https://github.com/hrkfdn/ncspot |
-| Spotifyd | Lightweight Spotify Connect daemon for servers and Raspberry Pi. | https://spotifyd.github.io | https://github.com/Spotifyd/spotifyd |
-| librespot | Open-source implementation of Spotify Connect. | https://librespot.org | https://github.com/librespot-org/librespot |
-| OuterTune | Material You music player with YouTube Music and local playback support. | — | https://github.com/OuterTune/OuterTune |
-| InnerTune | Material You YouTube Music client for Android. | — | https://github.com/z-huang/InnerTune |
-| Harmony Music | Beautiful open-source Android music player. | — | https://github.com/anandnet/Harmony-Music |
-| RiMusic | Android music player inspired by YouTube Music. | — | https://github.com/fast4x/RiMusic |
-| ViMusic | Lightweight YouTube Music client (archived). | — | https://github.com/vfsfitvnm/ViMusic |
+| Resource | Link |
+|----------|------|
+| 🌐 Spotify | https://spotify.com |
+| 🎵 Web Player | https://open.spotify.com |
+| 📥 Download Spotify | https://spotify.com/download |
+| 💬 Spotify Community | https://community.spotify.com |
+| 🛠 Spotify Developers | https://developer.spotify.com |
+| 🆘 Spotify Support | https://support.spotify.com |
+| 📚 Spotify API Docs | https://developer.spotify.com/documentation/web-api |
+| GitHub Organization | https://github.com/spotify |
 
 ---
 
-## 📱 Platform Support
+# 🛠 Official ReVanced
 
-| App | Android | Windows | macOS | Linux | iOS |
-|------|:-------:|:-------:|:------:|:------:|:---:|
-| Spotube | ✅ | ✅ | ✅ | ✅ | ⚠️ Sideload |
-| Spicetify | ❌ | ✅ | ✅ | ✅ | ❌ |
-| ncspot | ❌ | ✅ | ✅ | ✅ | ❌ |
-| Spotifyd | ❌ | ✅ | ✅ | ✅ | ❌ |
-| librespot | ❌ | ✅ | ✅ | ✅ | ❌ |
-| OuterTune | ✅ | ❌ | ❌ | ❌ | ❌ |
-| InnerTune | ✅ | ❌ | ❌ | ❌ | ❌ |
-| Harmony Music | ✅ | ❌ | ❌ | ❌ | ❌ |
-| RiMusic | ✅ | ❌ | ❌ | ❌ | ❌ |
-| ViMusic | ✅ | ❌ | ❌ | ❌ | ❌ |
+> [!IMPORTANT]
+> ReVanced does **not** distribute pre-patched Spotify APKs.
+>
+> Only download ReVanced tools from the official website or GitHub. :contentReference[oaicite:1]{index=1}
+
+| Resource | Link |
+|----------|------|
+| 🌐 ReVanced Website | https://revanced.app |
+| GitHub | https://github.com/ReVanced |
+| ReVanced Manager | https://github.com/ReVanced/revanced-manager |
+| ReVanced CLI | https://github.com/ReVanced/revanced-cli |
+| ReVanced Patches | https://github.com/ReVanced/revanced-patches |
+| Documentation | https://github.com/ReVanced/revanced-documentation |
+| GmsCore | https://github.com/ReVanced/GmsCore |
 
 ---
 
-## 🛡️ Features
+# 🎵 Spotify Clients
 
-- ✅ Free & Open Source
-- 🚫 No Ads
+| App | Official Website | GitHub | F-Droid |
+|------|------------------|---------|---------|
+| Spotube | https://spotube.cc | https://github.com/KRTirtho/spotube | https://f-droid.org/packages/oss.krtirtho.spotube/ |
+| ncspot | https://ncspot.net | https://github.com/hrkfdn/ncspot | — |
+| librespot | https://librespot.org | https://github.com/librespot-org/librespot | — |
+| Spotifyd | https://spotifyd.github.io | https://github.com/Spotifyd/spotifyd | — |
+| Spicetify | https://spicetify.app | https://github.com/spicetify/cli | — |
+| SpotX | — | https://github.com/SpotX-Official/SpotX | — |
+| SpotX-Bash | — | https://github.com/SpotX-Official/SpotX-Bash | — |
+
+---
+
+# 🎧 Open-Source Music Apps
+
+| App | GitHub | F-Droid |
+|------|---------|---------|
+| RiMusic | https://github.com/fast4x/RiMusic | https://f-droid.org/packages/it.fast4x.rimusic/ |
+| InnerTune | https://github.com/z-huang/InnerTune | https://f-droid.org/packages/com.zionhuang.music/ |
+| OuterTune | https://github.com/OuterTune/OuterTune | — |
+| Harmony Music | https://github.com/anandnet/Harmony-Music | — |
+| SimpMusic | https://github.com/maxrave-dev/SimpMusic | — |
+| ViMusic (Archived) | https://github.com/vfsfitvnm/ViMusic | https://f-droid.org/packages/it.vfsfitvnm.vimusic/ |
+| Namida | https://github.com/namidaco/namida | — |
+| Auxio | https://github.com/OxygenCobalt/Auxio | https://f-droid.org/packages/org.oxycblt.auxio/ |
+| Metro | https://github.com/MuntashirAkon/Metro | https://f-droid.org/packages/io.github.muntashirakon.Music/ |
+| Vanilla Music | https://github.com/vanilla-music/vanilla | https://f-droid.org/packages/ch.blinkenlights.android.vanilla/ |
+| Vinyl Music Player | https://github.com/VinylMusicPlayer/VinylMusicPlayer | https://f-droid.org/packages/com.poupa.vinylmusicplayer/ |
+| Phocid | https://github.com/kaushikapoori/Phocid | https://f-droid.org/packages/org.sunsetware.phocid/ |
+| Music Player GO | https://github.com/enricocid/Music-Player-GO | https://f-droid.org/packages/com.iven.musicplayergo/ |
+| Apollo | https://github.com/Apollo-Music/apollo | — |
+| Odyssey Music Player | https://github.com/gateship-one/odyssey | https://f-droid.org/packages/org.gateshipone.odyssey/ |
+
+---
+
+# 📦 App Stores
+
+| Store | Link |
+|------|------|
+| F-Droid | https://f-droid.org |
+| IzzyOnDroid | https://apt.izzysoft.de/fdroid |
+| GitHub | https://github.com |
+
+---
+
+# ⭐ Features
+
+- 🎵 Spotify Clients
+- 🎧 Music Players
+- 📱 Android
+- 💻 Windows
+- 🍎 macOS
+- 🐧 Linux
+- 📺 Android TV
+- 🌍 Cross Platform
+- 🔓 Open Source
+- 🚫 Ad-Free
 - 🔒 Privacy Friendly
-- 🎵 Playlist Support
-- 🎤 Lyrics
-- 📥 Offline Downloads (supported apps)
 - 🌙 Dark Mode
-- ⚡ Lightweight
-- 🌍 Cross-Platform
+- 🎤 Lyrics
+- 📂 Local Music
+- 📥 Offline Playback
+- 🎶 Playlist Support
 
 ---
 
-## ⚠️ Disclaimer
+# ❤️ Support the Developers
+
+If you enjoy any of these projects:
+
+- ⭐ Star their GitHub repositories
+- 🐛 Report bugs
+- 💻 Contribute code
+- 💖 Donate to the developers
+- 📢 Share their work
+
+---
+
+# ⚠️ Disclaimer
 
 This repository is for educational and informational purposes only.
 
-All trademarks, logos, and copyrights belong to their respective owners. This repository does not distribute copyrighted music or modified versions of the listed applications.
+All trademarks, logos, and copyrights belong to their respective owners.
 
-Please support the original developers by starring their repositories and contributing when possible.
+This repository does **not** distribute copyrighted music, Spotify Premium unlocks, modified Spotify APKs, or pre-patched ReVanced applications.
 
----
-
-## ❤️ Support the Developers
-
-If you enjoy any of these projects, consider:
-
-- ⭐ Starring their GitHub repositories
-- 🐛 Reporting bugs
-- 💻 Contributing code
-- 💖 Donating to the developers when available
+Please support the original developers by using their official websites and repositories.
